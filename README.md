@@ -62,6 +62,9 @@ Note: The nameserver lists differed between the registry and
 registrar WHOIS outputs. The active authoritative delegation should be
 verified before drawing conclusions.
 
+![Whois networkwalks]([images/photo.png](https://github.com/ayliazulfiqar/penetration-report/blob/main/screenshots/whois.png))
+
+
 WhatWeb
 The supplied WhatWeb output reported:
 - HTTP redirected to HTTPS.
@@ -213,8 +216,6 @@ vulnerabilities.
    inventory of active systems or accounts.
 10. Keep all future reconnaissance and scanning within written
     authorization and scope.
-
-## Evidence Checklist
 
 ## Conclusion
 The exercises demonstrate how domain registration data, web technology
