@@ -62,7 +62,7 @@ Note: The nameserver lists differed between the registry and
 registrar WHOIS outputs. The active authoritative delegation should be
 verified before drawing conclusions.
 
-![Whois networkwalks]([images/photo.png](https://github.com/ayliazulfiqar/penetration-report/blob/main/screenshots/whois.png))
+![Whois networkwalks](penetration-report/screenshots/whois.png)
 
 
 WhatWeb
