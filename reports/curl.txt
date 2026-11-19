@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 13 Nov 2026 18:01:31 GMT
+Server: Apache
+Permissions-Policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+Expires: Fri, 13 Nov 2026 19:01:32 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress - Really Simple Security
+Set-Cookie: __wpdm_client=310eae7ea7eab6e9a7135fe3d76a451c; path=/; domain=networkwalks.com; HttpOnly
+Location: https://networkwalks.com/
+Referrer-Policy: no-referrer-when-downgrade
+X-Endurance-Cache-Level: 0
+X-nginx-cache: WordPress
+Content-Type: text/html; charset=UTF-8
+
